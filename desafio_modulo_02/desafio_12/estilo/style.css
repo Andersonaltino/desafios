@@ -95,7 +95,7 @@ section.imagem > p {
     display:inline-block;
     padding: 05px;
     background-color: rgba(0, 0, 0, 0.456);
-    text-shadow: 1px 1px 0px black;
+    text-shadow: 1px 1px 0px rgb(12, 12, 12);
    
 }
 
